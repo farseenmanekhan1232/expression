@@ -32,6 +32,11 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-}
+    "extra": {
+      "eas": {
+        "projectId": "c5289552-24f4-437b-8493-33b490d8b9bf"
+      }
+    },
+    "owner": "farseen"
   }
 }
